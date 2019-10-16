@@ -1,0 +1,2 @@
+# verilog
+Digital IC  learner
